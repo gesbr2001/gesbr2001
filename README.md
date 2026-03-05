@@ -1,10 +1,20 @@
 # 💫 About Me:
 👨‍💻Sou formado em **Análise e Desenvolvimento de Sistemas**, com **pós-graduação em Engenharia de Software**.
 
-Atualmente, sou responsável pela organização e gestão de notas fiscais, uso de sistemas ERP, automações em Excel com VBA, administração de servidores, infraestrutura de TI (LAN-WAN), manutenção de computadores e suporte técnico. Também participo da integração de novos colaboradores e gestão de equipes, aplicando habilidades analíticas para otimizar processos e manter um ambiente colaborativo e eficiente.
+Atualmente atuo como Desenvolvedor PHP Júnior, trabalhando no desenvolvimento e manutenção de sistemas web utilizando PHP e frameworks como CodeIgniter. Participo da implementação de novas funcionalidades, correção de bugs e melhorias em sistemas existentes, sempre buscando código limpo, organizado e eficiente.
 
-### 💻 Minhas tech stack que estou me aprofundando:
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![CODEIGNITER](https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white). ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+### 🚀 Stack Principal
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![CODEIGNITER](https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+### 🧩 Outras Stacks e Ferramentas
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+### 🗄️ Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+### 🛠️ Versionamento
+
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Git Bash](https://img.shields.io/badge/git%20bash-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### ⚠️ Meu portfólio:
 [PORTFÓLIO GABRIEL ESTRELA](https://gesbr2001.github.io/portfolioMe/)
