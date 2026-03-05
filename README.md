@@ -21,6 +21,12 @@ Atualmente atuo como Desenvolvedor PHP Júnior, trabalhando no desenvolvimento e
 [PORTFÓLIO GABRIEL ESTRELA](https://gesbr2001.github.io/portfolioMe/)
 
 ### 📋 Meus últimos projetos: 
+
+📦​ `Sistema Estoque`
+> Projeto referente ao sistema de estoque que estou fazendo em PHP(CI4) e outras tecnologias.
+
+[Sistema_Estoque](https://github.com/gesbr2001/Sistema_estoque)
+
 🔎 `Pesquisa Inteligente`
 > Projeto de Pesquisa Inteligente desenvolvido em Node.js, criado para auxiliar os colaboradores na busca por códigos e nomes de itens.
 
@@ -29,12 +35,7 @@ Atualmente atuo como Desenvolvedor PHP Júnior, trabalhando no desenvolvimento e
 📲`Controle de Pocket`
 > Protocolo de controle dos pockets da empresa, no qual os colaboradores registram o equipamento que estão utilizando, permitindo à empresa acompanhar qual dispositivo está sob responsabilidade de cada pessoa.
 
-[Protocolo Pocket]([https://github.com/gesbr2001/controlePocket](https://cdn-icons-png.freepik.com/256/2673/2673777.png?semt=ais_white_label))
-
-🎮 `Miniprojetos`
-> Projeto de mini jogos autorais, para o qual desenvolvi uma landing page reunindo e apresentando todos os jogos em um único lugar.
-
-[MiniGames](https://github.com/gesbr2001/miniProjetinhos)
+[Protocolo Pocket](https://github.com/gesbr2001/controlePocket)
 
 *Esses são alguns dos meus projetos.*
 
