@@ -1,48 +1,157 @@
-# 💫 About Me:
-👨‍💻Sou formado em **Análise e Desenvolvimento de Sistemas**, com **pós-graduação em Engenharia de Software**.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=Gabriel%20Estrela&fontSize=40&fontColor=fff"/>
+</p>
 
-Atualmente atuo como Desenvolvedor PHP Júnior, trabalhando no desenvolvimento e manutenção de sistemas web utilizando PHP e frameworks como CodeIgniter. Participo da implementação de novas funcionalidades, correção de bugs e melhorias em sistemas existentes, sempre buscando código limpo, organizado e eficiente.
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
 
-### 🚀 Stack Principal
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![CODEIGNITER](https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+<h1 align="center">Gabriel Estrela</h1>
 
-### 🧩 Outras Stacks e Ferramentas
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+<p align="center">
+PHP Developer • CodeIgniter • Web Applications
+</p>
 
-### 🗄️ Banco de Dados
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-### 🛠️ Versionamento
+<h2>💫 Sobre mim</h2>
 
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Git Bash](https://img.shields.io/badge/git%20bash-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e possuo <strong>pós-graduação em Engenharia de Software</strong>.
+</p>
 
-### ⚠️ Meu portfólio:
-[PORTFÓLIO GABRIEL ESTRELA](https://gesbr2001.github.io/portfolioMe/)
+<p>
+Atualmente atuo como <strong>Desenvolvedor PHP Júnior</strong>, trabalhando no desenvolvimento e manutenção de sistemas web utilizando <strong>PHP</strong> e frameworks como <strong>CodeIgniter</strong>.
+</p>
 
-### 📋 Meus últimos projetos: 
+<p>
+Participo da implementação de novas funcionalidades, correção de bugs e melhorias em sistemas existentes, sempre buscando código limpo, organizado e eficiente.
+</p>
 
-📦​ `Sistema Estoque`
-> Projeto referente ao sistema de estoque que estou fazendo em PHP(CI4) e outras tecnologias.
+---
 
-[Sistema_Estoque](https://github.com/gesbr2001/Sistema_estoque)
+<h2>🚀 Stack Principal</h2>
 
-🔎 `Pesquisa Inteligente`
-> Projeto de Pesquisa Inteligente desenvolvido em Node.js, criado para auxiliar os colaboradores na busca por códigos e nomes de itens.
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=yellow">
+</p>
 
-[PesquisaIntelli](https://github.com/gesbr2001/PesquisaIntelli)
+---
 
-📲`Controle de Pocket`
-> Protocolo de controle dos pockets da empresa, no qual os colaboradores registram o equipamento que estão utilizando, permitindo à empresa acompanhar qual dispositivo está sob responsabilidade de cada pessoa.
+<h2>🧩 Ferramentas</h2>
 
-[Protocolo Pocket](https://github.com/gesbr2001/controlePocket)
+<p>
+<img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
+</p>
 
-*Esses são alguns dos meus projetos.*
+---
 
-## 🌐 Minhas Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-estrela/) 
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielestrelaa_/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/lojdn7)
+<h2>🗄️ Banco de Dados</h2>
 
+<p>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
+---
 
+<h2>🛠️ Versionamento</h2>
+
+<p>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git_bash-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+<h2>🗂️​ Projetos em Destaque</h2>
+
+<h3>📦 Sistema de Estoque</h3>
+
+<p>
+Sistema de gestão de estoque desenvolvido em <strong>PHP com CodeIgniter</strong>, contendo fluxo de requisições, controle de usuários e gerenciamento logístico.
+</p>
+
+<p>
+<a href="https://github.com/gesbr2001/Sistema_estoque">
+Ver projeto
+</a>
+</p>
+
+---
+
+<h3>🔎 Pesquisa Inteligente</h3>
+
+<p>
+Sistema desenvolvido em <strong>Node.js</strong> para auxiliar colaboradores na busca rápida por códigos e nomes de itens.
+</p>
+
+<p>
+<a href="https://github.com/gesbr2001/PesquisaIntelli">
+Ver projeto
+</a>
+</p>
+
+---
+
+<h3>📚​ Sistema de Requisição </h3>
+
+<p>
+Sistema de controle de protocolo de requisições, onde registram requisições e passa por todos o ciclo de triagem -> separação -> conferência -> expedição, permitindo rastrear todo o caminho da requisição.
+</p>
+
+<p>
+<a href="https://github.com/gesbr2001/Sistema-Requisi-o">
+Ver projeto
+</a>
+</p>
+
+---
+
+<h2>📊 Estatísticas do GitHub</h2>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gesbr2001&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesbr2001&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<h2>🌐 Redes Sociais</h2>
+
+<p>
+
+<a href="https://www.linkedin.com/in/gabriel-estrela/">
+<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a  href="https://www.instagram.com/gabrielestrelaa_/">
+<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://w.app/lojdn7">
+<img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+💡 Sempre buscando evoluir como desenvolvedor e criar soluções eficientes através da tecnologia.
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW01YWtxd2ZxYmhoNjVmYTN4Yng1Y3Fic3l0NXJqNnIzMms5djRrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRYS68fZhsEc0hBPDG/giphy.gif" width="250">
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=120&section=footer"/>
+</p>
