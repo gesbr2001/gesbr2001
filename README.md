@@ -12,6 +12,15 @@
 PHP Developer • CodeIgniter • Web Applications
 </p>
 
+<p align="center">
+  <a href="https://gabrielestreladev.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Meu%20Site-0077B5?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://gedevgames.vercel.app/">
+    <img src="https://img.shields.io/badge/🎮%20GE%20Games-00C853?style=for-the-badge&logo=gamepad&logoColor=white">
+  </a>
+</p>
+
 ---
 
 <h2>💫 Sobre mim</h2>
