@@ -13,7 +13,7 @@ PHP Developer • CodeIgniter • Web Applications
 </p>
 
 <p align="center">
-  <a href="https://gabrielestrela.dev.brp/">
+  <a href="https://gabrielestrela.dev.br/">
     <img src="https://img.shields.io/badge/🌐%20Meu%20Site-0077B5?style=for-the-badge&logoColor=white">
   </a>
   <a href="https://gedevgames.vercel.app/">
