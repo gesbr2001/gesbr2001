@@ -126,11 +126,29 @@ Ver projeto
 
 ---
 
-<h2>📊 Estatísticas do GitHub</h2>
+<h3>🛒 Loja de Roupa </h3>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gesbr2001&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesbr2001&layout=compact&theme=tokyonight"/>
+<p>
+Projeto de uma loja virtual simples para apresentação de produtos de moda e finalização de pedidos pelo WhatsApp.
+</p>
+
+<p>
+<a href="https://github.com/gesbr2001/lojaGabriel">
+Ver projeto
+</a>
+</p>
+
+---
+<h3>🛰️ APP GPS </h3>
+
+<p>
+Aplicativo mobile em Expo/React Native para operacao de rotas, login pela API do sistema, envio de documentos por foto e rastreamento de localizacao em foreground/background.
+</p>
+
+<p>
+<a href="https://github.com/gesbr2001/appgps">
+Ver projeto
+</a>
 </p>
 
 ---
