@@ -84,14 +84,14 @@ Participo da implementação de novas funcionalidades, correção de bugs e melh
 
 <h2>🗂️​ Projetos em Destaque</h2>
 
-<h3>📦 Sistema de Estoque</h3>
+<h3>📈 FinanceApp </h3>
 
 <p>
-Sistema de gestão de estoque desenvolvido em <strong>PHP com CodeIgniter</strong>, contendo fluxo de requisições, controle de usuários e gerenciamento logístico.
+Sistema de gestão financeiro desenvolvido em <strong>REACT NATIVE</strong>, podendo adicionar categorias de gastos, controle de finanças.
 </p>
 
 <p>
-<a href="https://github.com/gesbr2001/Sistema_estoque">
+<a href="https://github.com/gesbr2001/financeApp">
 Ver projeto
 </a>
 </p>
