@@ -26,7 +26,7 @@ PHP Developer • CodeIgniter • Web Applications
 <h2>💫 Sobre mim</h2>
 
 <p>
-Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e possuo <strong>pós-graduação em Engenharia de Software</strong>.
+Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e possuo <strong>pós-graduação em Engenharia de Software, MBA Gestão de Projetos e Gestão de Projetos de TI</strong>.
 </p>
 
 <p>
